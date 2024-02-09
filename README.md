@@ -1,15 +1,9 @@
-<h1>I'm Ethan, a Full-Stack Web Developer 👋 </h1>
+<h1>Welcome to my GitHub! 👋 </h1>
 
-<a href="">Full Resume</a>
+View My Resume: <a href="">Full Resume</a>
 
 <h2>About Me ☕</h2> <br>
-I'm a 20-year-old Full Stack Web Developer based in the vibrant city of Berkeley, California. You can find me at my desk: my playground where I constantly code, build, and experiment. Otherwise, I am likely playing chess, exercising outdoors, or enjoying my roast at a cafe with friends!
-
-<br>
-<br>
-
-<h2>Tech Background  🛠️</h2> <br>
-Since high school, I have deeply invested myself in the world of programming. It started off with a passion for solving problems using the magic of programming and slowly grew into a (healthy, I think) obsession of building websites. Now, I find myself programming everyday on full-stack web applications. 🛠️
+Hi! I'm Ethan, a 20-year-old Full Stack Web Developer based in the vibrant city of Berkeley, California. You can find me at my desk: my playground where I constantly code, build, and experiment. Otherwise, I am likely playing chess, exercising outdoors, or enjoying my roast at a cafe with friends!
 
 <br>
 <br>
@@ -20,5 +14,5 @@ I specialize in <strong>React</strong> for front-end development, and <strong>Sp
 <br>
 <br>
 
-<h2>How to reach me  📫</h2> <br>
-You can contact me at my email address: Ethan.e.gutierrez@gmail.com
+<h2>Reach Out📫</h2> <br>
+Feel free to email me if you have any questions or would like to collaborate! :) 
